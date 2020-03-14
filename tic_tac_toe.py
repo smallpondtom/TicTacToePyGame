@@ -51,7 +51,7 @@ while True:
   
   #loop speed limitation
   #30 frames per second is enought
-  pygame.time.Clock().tick(3)
+  pygame.time.Clock().tick(100)
  
   for event in pygame.event.get():
     if event.type==pygame.QUIT:    #wait for events

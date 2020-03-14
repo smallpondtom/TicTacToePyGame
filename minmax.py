@@ -1,6 +1,4 @@
-import numpy as np
-
-tab = np.zeros([1, 9])
+tab = [0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 t = tab
 
